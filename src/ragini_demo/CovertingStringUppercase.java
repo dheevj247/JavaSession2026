@@ -23,3 +23,4 @@ public class CovertingStringUppercase {
 		System.out.println(output.toUpperCase());
 	}
 }
+	
