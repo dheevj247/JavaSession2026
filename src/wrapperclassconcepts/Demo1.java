@@ -13,7 +13,7 @@ public class Demo1 {
 		/*
 		 * Non -primitive data type : String Array Scanner Object UserDefinedClass
 		 */
-		Object obj = new Employee(); // non-primitive data type
+//		Object obj = new Employee(); // non-primitive data type
 		Object obj1 = new String("Hello"); // non-primitive data type
 		Object obj2 = new int[5]; // non-primitive data type
 		Object obj3 = new Scanner(System.in); // non-primitive data type
