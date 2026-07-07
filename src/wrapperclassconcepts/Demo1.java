@@ -2,8 +2,6 @@ package wrapperclassconcepts;
 
 import java.util.Scanner;
 
-import understandingarray.Employee;
-
 public class Demo1 {
 
 	public static void main(String[] args) {
