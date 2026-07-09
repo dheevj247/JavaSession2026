@@ -2,7 +2,7 @@ package ragini_demo;
 
 import java.util.Scanner;
 
-public class Demo2 {
+public class Scannerclass {
 
 	public static int sumOfAdd(int num1,int num2) { //methodcreate parameter
 		int sum=num1+num2;
