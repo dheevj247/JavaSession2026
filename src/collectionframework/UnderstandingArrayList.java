@@ -10,6 +10,7 @@ public class UnderstandingArrayList {
 	// Additional methods of ArrayList class
 	// 1. add(int index, Object o)
 	// 2. addAll(int index, Collection c)
+
 	
 	public static void main(String[] args) {
 		//syntax of ArrayList
@@ -39,6 +40,9 @@ public class UnderstandingArrayList {
 		list.add(2);
 		list.add(false);
 		System.out.println(list);
+		
+		// ArrayList: we can not create an arraylist of int (primitive) type
+		// ArrayList<int> list = new ArrayList<int>(); //CTE
 		
 	}
 }
